@@ -8,3 +8,4 @@ def welcome(message):
     bot.reply_to(message, "Assalomu alaykum! SHAXAMVP UC BOT ga xush kelibsiz!")
 
 bot.infinity_polling()
+# okee restart
